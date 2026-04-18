@@ -1,0 +1,9 @@
+pyautogui
+SpeechRecognition
+pyttsx3
+psutil
+pyaudio
+opencv-python
+numpy
+pydantic
+rich
